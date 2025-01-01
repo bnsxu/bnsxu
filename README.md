@@ -2,7 +2,7 @@
 [![My Skills](https://skillicons.dev/icons?i=java,spring,aws,docker,react,github,theme=default)](https://skillicons.dev)
 
 ###### _Social_
-[![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white)](https://velog.io/)
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white)](https://velog.io/@bnsx)
 [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://www.notion.so/)
 
 <!--
