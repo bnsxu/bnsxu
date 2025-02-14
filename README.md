@@ -5,6 +5,10 @@
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white)](https://velog.io/@bnsx)
 [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://www.notion.so/)
 
+###### _BOJ_
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=bnsxu)](https://solved.ac/bnsxu)
+
 <!--
 ## Hi there 👋
 
@@ -20,10 +24,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-###### _BOJ_
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={handle})](https://solved.ac/{handle})
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
