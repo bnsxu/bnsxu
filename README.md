@@ -3,11 +3,6 @@
 
 ###### _Social_
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white)](https://velog.io/@bnsx)
-[![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://www.notion.so/)
-
-###### _BOJ_
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=bnsxu)](https://solved.ac/bnsxu)
 
 <!--
 ## Hi there 👋
@@ -31,6 +26,12 @@ Here are some ideas to get you started:
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
+
+[![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://www.notion.so/)
+
+###### _BOJ_
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=bnsxu)](https://solved.ac/bnsxu)
 
 ###### _Contrib_
 <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="profile-3d" width="500" height="auto">
